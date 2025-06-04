@@ -1,0 +1,1 @@
+IPL commentator's bias towards players and teams. 
