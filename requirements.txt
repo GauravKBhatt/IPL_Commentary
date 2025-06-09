@@ -1,6 +1,2 @@
-beautifulsoup4
-lxml 
 pandas
-requests
-Playwright
 selenium
